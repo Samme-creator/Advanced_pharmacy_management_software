@@ -1,0 +1,8 @@
+{
+  "name": "MediCare Pro Extra",
+  "description": "Advanced offline-first Pharmacy Management System with inventory tracking, sales billing, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
